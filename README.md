@@ -1,4 +1,4 @@
-# 🎯 SPORT: Iterative Trajectory Exploration for Multimodal Agents
+# 🎯 SPORT: Iterative Trajectory Exploration for Multimodal Agents ⚡️NeurIPS 2025
 
 <div align="center">
 
